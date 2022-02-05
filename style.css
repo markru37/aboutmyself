@@ -779,13 +779,13 @@ body
     margin: 0 0 12px 0;
 }
 .contacts__footer__item_phone {
-    background: url('../img/connection/01.svg') 0 0 no-repeat;
+    background: url('/connection1.svg') 0 0 no-repeat;
 }
 .contacts__footer__item_map {
-    background: url('../img/connection/03.svg') 0 0 no-repeat;
+    background: url('/connection2.svg') 0 0 no-repeat;
 }
 .contacts__footer__item_email {
-    background: url('../img/connection/02.svg') 0 0 no-repeat;
+    background: url('/connection3.svg') 0 0 no-repeat;
 }
 /* ---ADAPTIVE----------------- */
 @media (min-width: 1070px)
